@@ -4,16 +4,16 @@
   
 
 ### <div align="center">Hello! I'm Michael 👋  
-A Solution Engineer @ Intercom, working on solving our customers hardest problems.</div>  
+A Cloud Solution Architect @ Microsoft.</div>  
   
 
 🔭 Previously @ Oracle as a Solution Architect  
   
 
-🌱 Constantly learning AWS, Azure, GCP and Oracle cloud certs  
+🌱 Constantly learning AWS, Azure, GCP and OCI 
   
 
-📝 Java, Python, JS & more   
+📝 Java, Python, JS & more.   
   
 
 ☕ Lets connect!  
